@@ -93,6 +93,10 @@ require.config({
       ]
     },
     {
+      name: 'findmydevice',
+      exclude: ['main']
+    },
+    {
       name: 'panels/root/panel',
       exclude: [
         'main',

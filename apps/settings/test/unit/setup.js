@@ -18,6 +18,9 @@ requireApp('settings/js/vendor/alameda.js', (function() {
       'settings': {
         exports: 'Settings'
       },
+      'findmydevice': {
+        exports: 'FindMyDevice'
+      },
       'shared/lazy_loader': {
         exports: 'LazyLoader'
       },
